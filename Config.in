@@ -1,0 +1,5 @@
+menu "Custom external packages"
+    source "$BR2_EXTERNAL_EMLI_PATH/package/hello/Config.in"
+endmenu
+
+
